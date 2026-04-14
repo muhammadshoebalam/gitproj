@@ -2,3 +2,4 @@ echo "Hi"
 new line
 modified on develop branch
 modified in feature branch
+modified in 2nd feature branch
